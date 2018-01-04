@@ -12,6 +12,7 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 	
 	you only add the files that needs to be commited.
+	you use git diff --staged to make sure of the changes made before it gets commited.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
