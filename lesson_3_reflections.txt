@@ -23,8 +23,8 @@ How do the diagrams help you visualize the branch structure?
 
 	digrams help with visualizing last common commit and branches heads, so you know if you merge what is already there and what will be added.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+merging two combines them into one branch and leaving both of their commits availble to checkout.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
