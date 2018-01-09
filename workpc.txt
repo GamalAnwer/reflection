@@ -1,1 +1,7 @@
 #test connection
+
+
+
+
+
+now we add a comit to github and see if it will get in the local staging area
