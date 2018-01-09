@@ -2,9 +2,3 @@
 
 
 
-
-
-now we add a comit to github and see if it will get in the local staging area
-
-
-it mergered automatically on local when pulled. as it should.
